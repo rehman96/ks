@@ -1,0 +1,8 @@
+EXTINF:-1 ,KS_1
+http://172.27.27.90:8080/tv1/index.m3u8
+#EXTINF:-1 ,KS_2
+http://172.27.27.90:8080/tv2/index.m3u8
+#EXTINF:-1 ,KS_3
+http://172.27.27.90:8080/tv3/index.m3u8
+#EXTINF:-1 ,KS_4
+http://172.27.27.90:8080/tv4/index.m3u8
