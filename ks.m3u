@@ -7,3 +7,12 @@ http://172.27.27.90:8080/tv2/index.m3u8
 http://172.27.27.90:8080/tv3/index.m3u8
 #EXTINF:-1 ,KS_4
 http://172.27.27.90:8080/tv4/index.m3u8
+#EXTINF:-1 ,Ayna Tsports
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698421695~exp=1698464895~acl=/*~data=45.61.146.183-WEB~hmac=2fca06c8eaa9cc32776b85ec240a72d1bfd0a2e26c2dc26c51e995d4f3606c06  
+#EXTINF:-1 ,Ayna Gtv
+m3u8 Sniffer[2]: https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698422258~exp=1698465458~acl=/*~data=45.61.146.183-WEB~hmac=5f7ac07a31a99eafd7bd9a928431fb5e8d236cb996949cb430fe3765dd40bbc2  
+#EXTINF:-1 ,Midi Gtv
+https://stream.midiplexhd.com:1936/live/sky_4/chunklist_w1836683240_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTg0Mjg2ODAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5ODQyMTY4MCZyYWl5YW50b2tlbmhhc2g9ZkYzYUxjNHpKQzVBejAwQzJOZ093Z1N6ZmZNT2EwYi15dnVzSVNzdDJ4WT0=.m3u8
+#EXTINF:-1 ,Midi Tsports
+https://stream.midiplexhd.com:1936/live/sky_12/chunklist_w1863246209_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTg0Mjg5ODAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5ODQyMTk4MCZyYWl5YW50b2tlbmhhc2g9RG1abDZvU1kzMm9OS3RlTWxyVzYwV0RZcWkzZXRkeW80SU8xSHlwUk5FQT0=.m3u8
+
