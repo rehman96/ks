@@ -13,6 +13,8 @@ http://longstream-01.ajaah.com/PlayBoxTV/DDBangla/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=1173600.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Kolkata", khushboo
+https://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
 Bangladeshi
 #EXTINF:-1 tvg-logo="https://www.sarkariexam.com/wp-content/uploads/2023/09/Star-Sports-Network-.jpg" group-title="Sports", Ks_Network-1
@@ -42,7 +44,7 @@ http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh", Tsports Link-2
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh", Tsports Link-3
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+https://live.himel-himu@1rdk.short.gy/TSports-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 ,tvg-logo="https://i.imgur.com/T38Oiwl.jpg"group-title="Bangladesh",Ekushey Tv 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgmG2dS.jpg" group-title="Bangla TV",Somoy News
@@ -236,6 +238,8 @@ http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 ,ICC TV Add free Channel
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 ,ICC TV Add free Channel-2
+https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 ,Gazi TV 2
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 ,Willow Extra TV
@@ -244,6 +248,10 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 ,sp2
 https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1 ,sp3
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,sp4
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 ,Saudi Pro League Live Match
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 ,BEIN Sports 1
@@ -254,5 +262,10 @@ https://stream.ayas.ir/hls2/bein2.m3u8
 https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 ,BEIN Sports 4
 https://stream.ayas.ir/hls2/bein4.m3u8
+#EXTINF:-1 ,TUDN
+https://mlb.mrgamingstreams.com/tudn.m3u8
+#EXTINF:-1 ,Sky
+https://sky-cric.himelop.repl.co/
 
 
+https://lcvnrg.dm.files.1drv.com/y4m_ARVnBdIjMVDX2muiTVjMsfSI59o2U9vdoX7eDFsGV2jXWehgseNrjosiJHbjGBGusY4zYFU8wPeB0Ae_vc2zZSBY9jRGjcFi4qEhdZC3ZbLP1x_d1hLfCdw06SV_YckD9v1XDhhyGHqVKeKsDKtRKgngihqN2eRiuU1C3vD6AqJazjII2T4z99A8XnNm9pNjld67l8S3CMFu7GVDKiDyw/Sports.m3u8
