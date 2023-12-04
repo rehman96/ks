@@ -122,6 +122,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="http://flix.bdtype.com/uploads/tv_image/rtv-music.png",44. RTV Music HD
 https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
 
+#EXTINF:-1 group-title="Bangla"  BTV
+http://103.230.105.252:1935/live/btv/manifest.mpd
 
 
 ♦ World News.
@@ -151,49 +153,29 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 ,Chinese International (America): 
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-**
-docomentry
-#EXTINF:-1 , D Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_9_0.m3u8
-#EXTINF:-1 , CNN
-https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/85f0b64d-3c9c-4f3c-9a21-d297d0fb366c/0.m3u8#EXTINF:-1 , DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 , Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 , India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-#EXTINF:-1 , Discovery Bangla
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 , NEWS Time Bangla 
 https://yuppirecloriginvt.akamaized.net/29072023/smil:newstime.smil/chunklist_b464000.m3u8?hdntl=exp=1698936703~acl=!*/29072023/smil:newstime.smil/*!yuppTVCom_5_23093072_d4d03728ae034054_US_45.61.146.183~data=hdntl~hmac=12934714786e99d96ee993aa107eba4aa1a81f9195a29320664c0f481fb70583
 #EXTINF:-1 , Zee 24
 https://vg-zeeftalive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/zeefta_https/9d1e548a-c797-4432-b4d4-af3d4527d7ed/1.m3u8
+#EXTINF:-1 , India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+
+
+
+**
+docomentry
+#EXTINF:-1 , D Turbo
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
+#EXTINF:-1 , Discovery Bangla
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 , Discovery
+https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 
 
 **Islam
-#EXTINF:-1 , KSA
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1698868088~dirs=1~hash=011cf9009e1fcaa8bea9d/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8
-#EXTINF:-1 , Medina TV
-https://cllive.itworkscdn.net/ksasunnalive/token=nva=1698868349~dirs=1~hash=0337331779d188f9776bd/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8
-#EXTINF:-1 , Makka
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1698868367~dirs=1~hash=01dbef429efaf876f9a56/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8
-#EXTINF:-1 ,alwoustatv
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_source_chunks.m3u8
-#EXTINF:-1 ,nagtv
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 , Qatar TV
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/2.m3u8
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=6",Al Quran Al Kareem
-https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=f624174064b06cb7f183ee598d1551d5
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sunaa.jpg?v=6",Al Sunnah (Medina)
-https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=sunna_tv&t=f624174064b06cb7f183ee598d1551d5
-#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/saudi/saudi_1.jpg?v=6",Saudi TV 1
-https://www.elAhmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_tv&t=f624174064b06cb7f183ee598d1551d5
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6" group-title="tunisia",Watania 2
-https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autoplay=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of9vW1A.png"group-title="Bangla TV",দেশী টিভি
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://1.bp.blogspot.com/-HOhYy3QeB6E/X8VRv0lX55I/AAAAAAAABE0/qbhw1_NYI40gAGcYPAp2jPg5H8z3xylaQCLcBGAsYHQ/s16000/Peace-tv-Bangla-logo.png",42. Peace-tv-Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 
