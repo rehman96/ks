@@ -119,9 +119,14 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/Yz9WnlX.png",NAN TV [BD]
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 
+EXTINF:-1 group-title="BANGLA" tvg-logo="https://ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",14. Ntv HD
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",26. Jago News 24 HD
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://flix.bdtype.com/uploads/tv_image/rtv-music.png",44. RTV Music HD
+https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
 
 
 
@@ -131,8 +136,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",DW-TV 4K 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",CNA News (Asia) 4K
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK News(JAPAN)
+https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/85f0b64d-3c9c-4f3c-9a21-d297d0fb366c/0.m3u8#EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK News(JAPAN)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -161,8 +165,7 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 #EXTINF:-1 , D Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_9_0.m3u8
 #EXTINF:-1 , CNN
-https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/072a8605-bedb-4127-bcc6-3e762bd7b595/0.m3u8
-#EXTINF:-1 , DW NEWS
+https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/85f0b64d-3c9c-4f3c-9a21-d297d0fb366c/0.m3u8#EXTINF:-1 , DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1 , Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -266,6 +269,3 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 https://mlb.mrgamingstreams.com/tudn.m3u8
 #EXTINF:-1 ,Sky
 https://sky-cric.himelop.repl.co/
-
-
-https://lcvnrg.dm.files.1drv.com/y4m_ARVnBdIjMVDX2muiTVjMsfSI59o2U9vdoX7eDFsGV2jXWehgseNrjosiJHbjGBGusY4zYFU8wPeB0Ae_vc2zZSBY9jRGjcFi4qEhdZC3ZbLP1x_d1hLfCdw06SV_YckD9v1XDhhyGHqVKeKsDKtRKgngihqN2eRiuU1C3vD6AqJazjII2T4z99A8XnNm9pNjld67l8S3CMFu7GVDKiDyw/Sports.m3u8
