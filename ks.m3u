@@ -116,6 +116,9 @@ https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 EXTINF:-1 group-title="BANGLA" tvg-logo="https://ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",14. Ntv HD
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
+#EXTINF:-1,BD: NTV
+http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/3647
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",26. Jago News 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
