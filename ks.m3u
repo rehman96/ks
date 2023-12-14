@@ -84,7 +84,7 @@ https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladesh", DBC New
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1702545562~exp=1702588762~acl=/*~data=180.211.141.138-WEB~hmac=de1d20e906923f070c011d890702325493dba6b729277aeb5801e57766dd25e2
+http://cdn01.palki.tv/live/DBC-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgmG2dS.jpg" group-title="Bangla TV",Somoy News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -200,6 +200,22 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo HD Ch-1
+http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo HD Ch-2
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo Bangla Ch-1
+https://last.gcdn.co/IND414/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo Wild Ch-3
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
+
 
 
 **Islam
