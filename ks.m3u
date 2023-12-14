@@ -51,15 +51,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/nYRFnW5.png",CHANNEL I
-https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://tvs2.aynaott.com/channeli/tracks-v1a1/mono.m3u8?hdnts=st=1702545872~exp=1702589072~acl=/*~data=180.211.141.138-WEB~hmac=517f9530c45de18467005e2398c01f2695c0a3612190289790a0c8bf486f7404
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/tPZKfLr.png",DEEPTO TV
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Bangladesh", Channel S Ch-2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV", JAGO_CHANNEL S [UK] [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Music Ch-1
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -86,7 +85,7 @@ https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladesh", DBC New
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1702545562~exp=1702588762~acl=/*~data=180.211.141.138-WEB~hmac=de1d20e906923f070c011d890702325493dba6b729277aeb5801e57766dd25e2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgmG2dS.jpg" group-title="Bangla TV",Somoy News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -95,7 +94,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/mono.m3u8?hdnts=st=1702546009~exp=1702589209~acl=/*~data=180.211.141.138-WEB~hmac=8139a818cc0463493de06f13d5d8359e824241ebfc897a22ccff65a89f9c98a9
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladesh",Maasranga
 https://niptv.kitv.live/maasranga-tv/tracks-v1a1/mono.m3u8
@@ -106,20 +105,18 @@ https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/KXsOj3L.png",BOISHAKHI TV
 https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/giqoc2X.jpg",DEEPTO TV HD
-https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/Yz9WnlX.png",NAN TV
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 
 EXTINF:-1 group-title="BANGLA" tvg-logo="https://ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",14. Ntv HD
-http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
+https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.m3u8?hdnts=st=1702544523~exp=1702587723~acl=/*~data=180.211.141.138-WEB~hmac=27710be1c4656c4742c9bcd9272359690938c115e3f769d27665ccc8f12af5dd
 
 #EXTINF:-1,BD: NTV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/3647
+https://tvs2.aynaott.com/ntv/tracks-v1a1/mono.m3u8?hdnts=st=1702544028~exp=1702587228~acl=/*~data=180.211.141.138-WEB~hmac=00095ed0343811606c59a9e46aeea8bdc6685177fbf6c4ccc05e03dd3c2afee6
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",26. Jago News 24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+https://statics.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8?nimblesessionid=34639437&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA5OjAwOjIzIEFNJmhhc2hfdmFsdWU9TEprcXI1dllYU1lLQWRmTFZvc2JGZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="http://flix.bdtype.com/uploads/tv_image/rtv-music.png",44. RTV Music HD
 https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
@@ -127,76 +124,7 @@ https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
 #EXTINF:-1 group-title="Bangla"  BTV
 http://103.230.105.252:1935/live/btv/manifest.mpd
 
-#EXTINF:-1,BD: Asian TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69334
-#EXTINF:-1,BD: ATN Bangla
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/298392
-#EXTINF:-1,BD: ATN Bangla UK
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69329
-#EXTINF:-1,BD: ATN News
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69342
-#EXTINF:-1,BD: Bangla 21
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/296843
-#EXTINF:-1,BD: Bangla GTV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/298397
-#EXTINF:-1,BD: Bangla Ruposhi
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/165831
-#EXTINF:-1,BD: Bangla TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/296842
-#EXTINF:-1,BD: Bangla Vision
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69335
-#EXTINF:-1,BD: Boishakhi TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69337
-#EXTINF:-1,BD: Btv Chittagong
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/172565
-#EXTINF:-1,BD: Channel 9
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69344
-#EXTINF:-1,BD: Channel 24
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69341
-#EXTINF:-1,BD: Channel S
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69346
-#EXTINF:-1,BD: DBC News
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/172577
-#EXTINF:-1,BD: DD Bangla
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/45488
-#EXTINF:-1,BD: Desh TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69347
-#EXTINF:-1,BD: DesheBideshe TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/294920
-#EXTINF:-1,BD: Ekushey TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69350
-#EXTINF:-1,BD: Gaan Bangla
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69349
-#EXTINF:-1,BD: Independent TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/165826
-#EXTINF:-1,BD: Iqra Bangla
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69364
-#EXTINF:-1,BD: ITVUSA
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/300823
-#EXTINF:-1,BD: Jamuna TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69353
-#EXTINF:-1,BD: Jhankar
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/297567
-#EXTINF:-1,BD: Millennium TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/196241
-#EXTINF:-1,BD: Mohona TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69354
-#EXTINF:-1,BD: Movie Bangla TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/300639
-#EXTINF:-1,BD: Nandan TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/172582
-#EXTINF:-1,BD: News 24
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/5127
-#EXTINF:-1,BD: NTV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/3647
-#EXTINF:-1,BD: Peace TV Bangla
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/267164
-#EXTINF:-1,BD: SA TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69357
-#EXTINF:-1,BD: Somoy News TV
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/69359
-#EXTINF:-1,BD: TV ONE
-http://37.49.225.107:8080/myhdosama/6JbVUE4zXTpRr2pf/300641
+
 
 ♦ World News.
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",AL-Jajira News 4k
