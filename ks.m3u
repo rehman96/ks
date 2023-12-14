@@ -72,7 +72,7 @@ https://bd.jagobd.com:444/live-orgin/atnislamictv.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladesh", RTV Ch-1
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+http://cdn01.palki.tv/live/RTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="Bangladesh", RTV Ch-2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
@@ -108,7 +108,7 @@ https://web.nandansyst.com/hls/nandan.m3u8
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 
 EXTINF:-1 group-title="BANGLA" tvg-logo="https://ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",14. Ntv HD
-https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.m3u8?hdnts=st=1702544523~exp=1702587723~acl=/*~data=180.211.141.138-WEB~hmac=27710be1c4656c4742c9bcd9272359690938c115e3f769d27665ccc8f12af5dd
+http://cdn01.palki.tv/live/NTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1,BD: NTV
 https://tvs2.aynaott.com/ntv/tracks-v1a1/mono.m3u8?hdnts=st=1702544028~exp=1702587228~acl=/*~data=180.211.141.138-WEB~hmac=00095ed0343811606c59a9e46aeea8bdc6685177fbf6c4ccc05e03dd3c2afee6
