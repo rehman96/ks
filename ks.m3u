@@ -176,7 +176,7 @@ https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://1.bp.blogspot.com/-HOhYy3QeB6E/X8VRv0lX55I/AAAAAAAABE0/qbhw1_NYI40gAGcYPAp2jPg5H8z3xylaQCLcBGAsYHQ/s16000/Peace-tv-Bangla-logo.png",42. Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="|CA| LOVE NATURE | SD" tvg-logo="" group-title="CANADA",|CA| LOVE NATURE | SD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="|CA| LOVE NATURE | SD" tvg-logo="" group-title="CANADA",|CA| LOVE NATURE 
 http://livetvbox.live:8080/live/Juan/Juan/1521.ts
 #EXTINF:-1 tvg-id="" tvg-name="|AU| Love Nature" tvg-logo="" group-title="AUSTRALIA",|AU| Love Nature
 http://livetvbox.live:8080/live/Juan/Juan/158810.ts
@@ -184,6 +184,8 @@ http://livetvbox.live:8080/live/Juan/Juan/158810.ts
 http://livetvbox.live:8080/live/Juan/Juan/210279.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR : Love Nature HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-JjMkH6f_tZwh-bCWVeXrN8YIQSmrrZAokKc-IrgCMow.png" group-title="TURKEY",TR : Love Nature HD
 http://livetvbox.live:8080/live/Juan/Juan/157645.ts
+#EXTINF:-1 Iqra bangle
+http://208.86.19.13:81/506.stream/index.m3u8
 
 
 
