@@ -59,8 +59,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Bangladesh", Channel S Ch-2
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Music Ch-1
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Bangla
+https://live.bongobd.com/hls/Ut_JDpRnNO8Ps_Vi1Bksmw/1702709608/sky-atn-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Bangladesh", ATN Music Ch-2
 https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
@@ -86,6 +86,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladesh", DBC New
 http://cdn01.palki.tv/live/DBC-M/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladesh", DBC New-2
+https://live.bongobd.com/hls/9bsU6MyTPAT45fXe7PKWrg/1702709491/sky-dbc-news.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgmG2dS.jpg" group-title="Bangla TV",Somoy News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
@@ -93,7 +96,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-https://tvs2.aynaott.com/atnbangla/tracks-v1a1/mono.m3u8?hdnts=st=1702546009~exp=1702589209~acl=/*~data=180.211.141.138-WEB~hmac=8139a818cc0463493de06f13d5d8359e824241ebfc897a22ccff65a89f9c98a9
+http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladesh",Maasranga
 https://niptv.kitv.live/maasranga-tv/tracks-v1a1/mono.m3u8
@@ -111,7 +114,7 @@ EXTINF:-1 group-title="BANGLA" tvg-logo="https://ntvbd.com/sites/default/files/a
 http://cdn01.palki.tv/live/NTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1,BD: NTV
-https://tvs2.aynaott.com/ntv/tracks-v1a1/mono.m3u8?hdnts=st=1702544028~exp=1702587228~acl=/*~data=180.211.141.138-WEB~hmac=00095ed0343811606c59a9e46aeea8bdc6685177fbf6c4ccc05e03dd3c2afee6
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",26. Jago News 24 HD
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
@@ -146,6 +149,86 @@ http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb
 #EXTINF:-1 ,I TV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
 
+#EXTINF:-1 ,Independent-tv
+https://live.bongobd.com/hls/tWKEVtRQwrEWRULIhwD9HA/1702709423/sky-independent-tv.m3u8
+
+#EXTINF:-1 ,Ekhon TV
+https://live.bongobd.com/hls/hDKRZCPH1hs6UgqlM7o6qQ/1702709677/sky-ekhon-tv.m3u8
+
+#EXTINF:-1 ,Travel XP
+https://cdn8.aliflailabd.com/travel-xp/index.m3u8
+#EXTINF:-1 ,Madani TV
+https://cdn8.aliflailabd.com/madani-tv/index.m3u8
+#EXTINF:-1 ,Global TV
+https://cdn8.aliflailabd.com/global-tv/index.m3u8
+#EXTINF:-1 ,BTV World
+https://cdn8.aliflailabd.com/btv-world/index.m3u8
+#EXTINF:-1 ,SATV
+https://cdn8.aliflailabd.com/SATV/index.m3u8
+#EXTINF:-1 ,Jamuna TV
+https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
+#EXTINF:-1 ,Independent TV
+https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
+#EXTINF:-1 ,Nagorik TV
+https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
+#EXTINF:-1 ,Banglavision
+https://cdn8.aliflailabd.com/banglavision/index.m3u8
+#EXTINF:-1 ,ATN News
+https://cdn8.aliflailabd.com/atn-news/index.m3u8
+#EXTINF:-1 ,Deepto TV
+https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
+#EXTINF:-1 ,ATN Bangla
+https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
+#EXTINF:-1 ,NTV
+https://cdn8.aliflailabd.com/ntv/index.m3u8
+#EXTINF:-1 ,Channel I
+https://cdn8.aliflailabd.com/Channel-i/index.m3u8
+#EXTINF:-1 ,Gaan Bangla
+https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
+#EXTINF:-1 ,Duronto TV
+https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
+#EXTINF:-1 ,Ekattor
+https://cdn8.aliflailabd.com/Ekattor/index.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
+#EXTINF:-1 ,MYTV HD
+https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
+#EXTINF:-1 ,Somoy TV
+https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
+#EXTINF:-1 ,BTV
+https://cdn8.aliflailabd.com/BTV/index.m3u8
+#EXTINF:-1 ,Mohona TV
+https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
+#EXTINF:-1 ,RTV
+https://cdn8.aliflailabd.com/RTV/index.m3u8
+#EXTINF:-1 ,Nexus TV
+https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
+#EXTINF:-1 ,News 24
+https://cdn8.aliflailabd.com/News-24/index.m3u8
+#EXTINF:-1 ,DBC News
+https://cdn8.aliflailabd.com/DBC-News/index.m3u8
+#EXTINF:-1 ,Bangla TV
+https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
+#EXTINF:-1 ,Anando TV
+https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
+#EXTINF:-1 ,Desh TV
+https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
+#EXTINF:-1 ,Boishakhi
+https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
+#EXTINF:-1 ,Sangsad TV
+https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
+#EXTINF:-1 ,Bijoy TV
+https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
+#EXTINF:-1 ,Channel 24
+https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
+#EXTINF:-1 ,Channel 9
+https://cdn8.aliflailabd.com/Channel-9/index.m3u8
+#EXTINF:-1 ,Maasranga TV
+https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
+#EXTINF:-1 ,Movie Bangla
+https://cdn8.aliflailabd.com/movie-bangla/index.m3u8
+#EXTINF:-1 ,Asian TV
+https://cdn8.aliflailabd.com/asiantv/index.m3u8
 
 
 
@@ -193,7 +276,7 @@ http://103.141.2.37:25461/web/web/593
 **
 docomentry
 #EXTINF:-1 , D Turbo
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 , Discovery Bangla
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 , Discovery
@@ -201,24 +284,27 @@ https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo HD Ch-1
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo HD Ch-2
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", National Geographic Wild
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo Bangla Ch-1
-https://last.gcdn.co/IND414/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary", Nat Geo Wild Ch-3
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
 
+#EXTINF:-1 group-title="ANIMAL",FOOD NETWORK
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADgrhvLPIrtb3v2Tsmfj6md0&auth=d895d8cc4acb05054415f18d96085657ad37c865732b51f2d672e17d5d841f9d
+#EXTINF:-1 group-title="ANIMAL",TLC
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
+#EXTINF:-1 group-title="ANIMAL",DISCOVERY SCIENCE
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
+#EXTINF:-1 group-title="ANIMAL",DISCOVERY HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
+#EXTINF:-1 group-title="ANIMAL",ANIMAL PLANET
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+#EXTINF:-1 ,ANIMAL PLANET HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
 
-**Islam
+**Islam***
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://1.bp.blogspot.com/-HOhYy3QeB6E/X8VRv0lX55I/AAAAAAAABE0/qbhw1_NYI40gAGcYPAp2jPg5H8z3xylaQCLcBGAsYHQ/s16000/Peace-tv-Bangla-logo.png",42. Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
@@ -254,3 +340,7 @@ https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 ,TUDN
 https://mlb.mrgamingstreams.com/tudn.m3u8
+#EXTINF:-1,AD FREE
+https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
+#EXTINF:-1, Col 12
+http://113.212.111.246:8080/hls/col12.m3u8
