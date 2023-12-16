@@ -122,7 +122,7 @@ https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="http://flix.bdtype.com/uploads/tv_image/rtv-music.png",44. RTV Music HD
 https://sagar-live.msr-sagar.repl.co/video/WBMGKDN-AIo.m3u8
 
-#EXTINF:-1 group-title="Bangla"  BTV
+#EXTINF:-1 group-title="Bangla", BTV
 http://103.230.105.252:1935/live/btv/manifest.mpd
 
 #EXTINF:-1 ,Time TV
@@ -316,7 +316,7 @@ http://livetvbox.live:8080/live/Juan/Juan/158810.ts
 http://livetvbox.live:8080/live/Juan/Juan/210279.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR : Love Nature HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjXabXbrBwYcUis3NpImYXxdzchFX2dHU55Qbtv1eCNvbHEpIzWy9OkeXLz96dlY7-JjMkH6f_tZwh-bCWVeXrN8YIQSmrrZAokKc-IrgCMow.png" group-title="TURKEY",TR : Love Nature HD
 http://livetvbox.live:8080/live/Juan/Juan/157645.ts
-#EXTINF:-1 Iqra bangle
+#EXTINF:-1 ,Iqra bangle
 http://208.86.19.13:81/507.stream/index.m3u8
 
 
@@ -328,6 +328,28 @@ http://208.86.19.13:81/507.stream/index.m3u8
 manik
 #EXTINF:-1 ,Fox Sports 501 Cricket FHD
 https://gettvfree.tech/live/stream_e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg" group-title="Sports", Star Sports 1 HD
+https://1rdk.short.gy/Star-Sports-1-HD/hls/Himel-Op
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Hindi
+https://1rdk.short.gy/Star-Sports-Hindi-HD/hls/Himel-Op
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-2.jpg" group-title="Sports", Star Sports 2 HD
+https://1rdk.short.gy/Star-Sports-2-HD/hls/Himel-Op
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FStar_Sports_3&psig=AOvVaw3xL5E_MVOTe3SKVIOpr9MB&ust=1702827859823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC-yp-mlIMDFQAAAAAdAAAAABAD" group-title="Sports", Star Sports 3 
+https://1rdk.short.gy/Star-Sports-3/Himel-Op
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 1 HD
+https://1rdk.short.gy/Star-Select-1/Himel-Op
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 2 HD
+https://1rdk.short.gy/Star-Select-2/Himel-Op
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", PTV Sports HD
+https://ddy5.webhd.ru/ddy5/premium450/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
+
 #EXTINF:-1,WORLD CUP AD FREE
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1, live 
