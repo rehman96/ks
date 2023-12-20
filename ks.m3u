@@ -146,92 +146,129 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 ,Ekhon tv
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
 
-#EXTINF:-1 ,I TV
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
+https://1rdk.short.gy/Himel-Op-Official.m3u8
 
-#EXTINF:-1 ,Independent-tv
-https://live.bongobd.com/hls/tWKEVtRQwrEWRULIhwD9HA/1702709423/sky-independent-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Somoy TV
+https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 ,Ekhon TV
-https://live.bongobd.com/hls/hDKRZCPH1hs6UgqlM7o6qQ/1702709677/sky-ekhon-tv.m3u8
 
-#EXTINF:-1 ,Travel XP
-https://cdn8.aliflailabd.com/travel-xp/index.m3u8
-#EXTINF:-1 ,Madani TV
-https://cdn8.aliflailabd.com/madani-tv/index.m3u8
-#EXTINF:-1 ,Global TV
-https://cdn8.aliflailabd.com/global-tv/index.m3u8
-#EXTINF:-1 ,BTV World
-https://cdn8.aliflailabd.com/btv-world/index.m3u8
-#EXTINF:-1 ,SATV
-https://cdn8.aliflailabd.com/SATV/index.m3u8
-#EXTINF:-1 ,Jamuna TV
-https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
-#EXTINF:-1 ,Independent TV
-https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
-#EXTINF:-1 ,Nagorik TV
-https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
-#EXTINF:-1 ,Banglavision
-https://cdn8.aliflailabd.com/banglavision/index.m3u8
-#EXTINF:-1 ,ATN News
-https://cdn8.aliflailabd.com/atn-news/index.m3u8
-#EXTINF:-1 ,Deepto TV
-https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
-#EXTINF:-1 ,ATN Bangla
-https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
-#EXTINF:-1 ,NTV
-https://cdn8.aliflailabd.com/ntv/index.m3u8
-#EXTINF:-1 ,Channel I
-https://cdn8.aliflailabd.com/Channel-i/index.m3u8
-#EXTINF:-1 ,Gaan Bangla
-https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
-#EXTINF:-1 ,Duronto TV
-https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
-#EXTINF:-1 ,Ekattor
-https://cdn8.aliflailabd.com/Ekattor/index.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
-#EXTINF:-1 ,MYTV HD
-https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
-#EXTINF:-1 ,Somoy TV
-https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
-#EXTINF:-1 ,BTV
-https://cdn8.aliflailabd.com/BTV/index.m3u8
-#EXTINF:-1 ,Mohona TV
-https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
-#EXTINF:-1 ,RTV
-https://cdn8.aliflailabd.com/RTV/index.m3u8
-#EXTINF:-1 ,Nexus TV
-https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
-#EXTINF:-1 ,News 24
-https://cdn8.aliflailabd.com/News-24/index.m3u8
-#EXTINF:-1 ,DBC News
-https://cdn8.aliflailabd.com/DBC-News/index.m3u8
-#EXTINF:-1 ,Bangla TV
-https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
-#EXTINF:-1 ,Anando TV
-https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
-#EXTINF:-1 ,Desh TV
-https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
-#EXTINF:-1 ,Boishakhi
-https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
-#EXTINF:-1 ,Sangsad TV
-https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
-#EXTINF:-1 ,Bijoy TV
-https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
-#EXTINF:-1 ,Channel 24
-https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
-#EXTINF:-1 ,Channel 9
-https://cdn8.aliflailabd.com/Channel-9/index.m3u8
-#EXTINF:-1 ,Maasranga TV
-https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
-#EXTINF:-1 ,Movie Bangla
-https://cdn8.aliflailabd.com/movie-bangla/index.m3u8
-#EXTINF:-1 ,Asian TV
-https://cdn8.aliflailabd.com/asiantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ekhon TV
+https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ananda TV
+https://1rdk.short.gy/Himel-Op/sky-ananda-tv.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Movie Bangla
+https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",BTV HD
+http://103.230.105.252:1935/live/btv/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",ATN News
+https://1rdk.short.gy/Himel-Op/sky-atn-news.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Nexus TV
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", ATN Bangla
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Bangla TV
+http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Banglavision HD
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Boishakhi TV
+https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Channel 24
+https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Bijoy TV
+https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Channel I HD
+https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", DBC News
+https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Deepto TV
+https://1rdk.short.gy/Deepto-Tv/Himel-Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Ekattor TV HD
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Green TV 
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Gazi TV HD 
+https://1rdk.short.gy/Gtv/Himel-Op.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", T Sports
+https://1rdk.short.gy/T-Sports/Himel-Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Independent TV
+https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Jamuna TV
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ekushey TV
+https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Mohona TV HD
+https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", My TV BD
+https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Desh TV
+https://1rdk.short.gy/Himel-Op/live-desh-tv.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", News 24 HD
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", NTV BD
+https://1rdk.short.gy/Himel-Op/ntv.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", RTV HD
+https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", SATV HD
+https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 
 
