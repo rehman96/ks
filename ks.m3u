@@ -247,10 +247,13 @@ https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
 ♦ World News.
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",AL-Jajira News 4k
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1, BBC NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",DW-TV 4K 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",CNA News (Asia) 4K
-https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/85f0b64d-3c9c-4f3c-9a21-d297d0fb366c/0.m3u8#EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK News(JAPAN)
+https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/85f0b64d-3c9c-4f3c-9a21-d297d0fb366c/0.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK News(JAPAN)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
