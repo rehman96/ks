@@ -241,6 +241,8 @@ https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/zsahmn3.jpg",MAASRANGA TV
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, jago news 24
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
 
 ♦ World News.
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",AL-Jajira News 4k
