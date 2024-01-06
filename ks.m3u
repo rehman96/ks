@@ -384,3 +384,9 @@ http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
+#EXTINF:-1, SONY 5
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+#EXTINF:-1, SONY LIV
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1, SONY LIV 2 AUTO
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
