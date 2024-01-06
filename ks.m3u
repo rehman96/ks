@@ -14,6 +14,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=1173600.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Kolkata", khushboo
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="News"tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png",TBN 24 USA
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-1 group-title="News"tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/cJmt7H7w/Ananda-Barta-logo.png",AB Ananda Barta
+http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/T1cYFfqg/image.jpg",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 Bangladeshi
 #EXTINF:-1 tvg-logo="https://www.sarkariexam.com/wp-content/uploads/2023/09/Star-Sports-Network-.jpg" group-title="Sports", Ks_Network-1
