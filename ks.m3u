@@ -321,58 +321,24 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 manik
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_xR7jwt6A3WuXuNd8xuWKwfSPVhpjE0KtA&usqp=CAU" group-title="SPORTS", Match! Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh1.webhd.ru/ddh1/premium136/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/Match_Football_2_Russia_logo.png" group-title="SPORTS", Match! Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://ddh1.webhd.ru/ddh1/premium137/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Fox Sports 501 Cricket FHD
-https://gettvfree.tech/live/stream_e1.m3u8
-
-#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg" group-title="Sports", Star Sports 1 HD
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Hindi
-https://1rdk.short.gy/Star-Sports-Hindi-HD/hls/Himel-Op
-
-#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-2.jpg" group-title="Sports", Star Sports 2 HD
-https://1rdk.short.gy/Star-Sports-2-HD/hls/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FStar_Sports_3&psig=AOvVaw3xL5E_MVOTe3SKVIOpr9MB&ust=1702827859823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC-yp-mlIMDFQAAAAAdAAAAABAD" group-title="Sports", Star Sports 3 
-https://1rdk.short.gy/Star-Sports-3/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 1 HD
-https://1rdk.short.gy/Star-Select-1/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 2 HD
-https://1rdk.short.gy/Star-Select-2/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", PTV Sports HD
-https://ddy5.webhd.ru/ddy5/premium450/tracks-v1a1/mono.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1, live 
-https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/6f1533ff-0627-49d8-ba2a-22583de0009f/5.m3u8
-#EXTINF:-1, starsports1
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist_w85353136_b596000.m3u8?nimblesessionid=1451122
-#EXTINF:-1,TNT SPORTS 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1,TNT SPORTS 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1,TNT SPORTS 3
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1,TNT SPORTS 4
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:-1,Live Stream
-https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
-#EXTINF:-1 ,TUDN
-https://mlb.mrgamingstreams.com/tudn.m3u8
-#EXTINF:-1,AD FREE
-https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
+#EXTINF:-1, Sports 1
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1, Sports 2
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1, Sports 3
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1, Sports 4
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1, Sports 5
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1, Sports 6
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1, Sports 7
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1, Sports 8
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1, Sports 9
+http://103.109.56.116/live/skyfeed1009/index.m3u8
 #EXTINF:-1, Col 12
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1, Green tv
