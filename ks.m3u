@@ -398,3 +398,5 @@ http://157.119.239.210:8099/tsports/index.m3u8
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1, BPL
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 star sports 2
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
