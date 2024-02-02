@@ -390,17 +390,19 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1, SONY LIV 2 AUTO
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-#EXTINF:-1, Super Sports
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/FqOCxRjhBPBIWleQ4Y0Ehd5eA_5LJABTPJvH4oagr6FcD7UotzODfsU0PyhoxjGZ8TUbIHGE3qn1mOjfdpH5hw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1, INDIA VS ENGLAND 
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvseng_test02day01020224/master.m3u8
 #EXTINF:-1, BPL
 http://157.119.239.210:8099/tsports/index.m3u8
 #EXTINF:-1, ILT
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1, BPL
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 star sports 2
+#EXTINF:-1, star sports 2
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#EXTINF:-1 ATN AFG
+#EXTINF:-1, ATN AFG
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 Star sports 1
+#EXTINF:-1, Star sports 1
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+#EXTINF:-1, Durbin 
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=28
