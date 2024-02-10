@@ -323,24 +323,21 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 manik
-#EXTINF:-1, Sports 1
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1, Sports 2
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1, Sports 3
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1, Sports 4
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:-1, Sports 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1, Sports 6
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1, Sports 7
-http://103.109.56.116/live/skyfeed1007/index.m3u8
-#EXTINF:-1, Sports 8
-http://103.109.56.116/live/skyfeed1008/index.m3u8
-#EXTINF:-1, Sports 9
-http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4 
+https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 1
+https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 2
+https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
 #EXTINF:-1, Hotflix
 http://nayeem-hotflix.zapto.org/1/index.m3u8
 #EXTINF:-1, Col 12
