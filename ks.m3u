@@ -6,16 +6,34 @@ https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 https://a2uy.short.gy/PAK-V-ENG/Join-@HimelOP_Official/Zubayer-Op.m3u8
 #EXTINF:-1, tvg-logo="https://s6.gifyu.com/images/zee-bangla626a326037a1eff6.jpg" group-title="Kolkata", Jumauna tv
 https://cdn.bdix.app/cast/hls/cdn_ytl.m3u8?id=4193bcd7b265abbc12edbdc7bd19469b
-#EXTINF:-1 , tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Kolkata",Zee Bangla Cinema
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=G6wwq6mQVigb2OdjOr1p7g&expires=1719489901&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1, tvg-logo="https://en.wikipedia.org/wiki/DD_Bangla#/media/File:Dd_Bangla.PNG" group-title="Kolkata", DD Bangla
-http://longstream-01.ajaah.com/PlayBoxTV/DDBangla/playlist.m3u8
-#EXTINF:-1 , tvg-logo="https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/67695876_2797502533607054_3400087405061996544_n.png?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeF8BYzNEw9-K_KxWn8NncipVK9Eg6EXXQhUr0SDoRddCAfJX4Gfh5wm6Gnd7hqyc8EEw7dhX1WhUlk354HbckY7&_nc_ohc=CnQZUkkpy0sAX9NtkSa&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDrnrdHt_B2OAXXo51h9QIDWyEkigdFm0eThfc_9CKr2w&oe=656DEC6E" group-title="Kolkata", Sangeetbangla
-https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=1173600.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Kolkata", khushboo
 https://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
+#https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
+
+
+#EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+
+
+
 #EXTINF:-1 group-title="News"tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png",TBN 24 USA
