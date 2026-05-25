@@ -1,4 +1,3 @@
-
 #================================
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
@@ -16,6 +15,21 @@ http://27.124.71.27/Willow_Extra/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
+https://playztv-apps.pages.dev/tsports/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
+https://starsportshindiii.pages.dev/720p.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Falcon
+https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/D04SQBVt/Asian-TV.jpg",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
@@ -23,7 +37,7 @@ https://tvsen6.aynaott.com/asiantv/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg",ATN News
-https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8
+https://playztv-apps.pages.dev/atn-news/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/1tnFM9wC/Bijoy-TV.jpg",Bijoy TV 
@@ -93,21 +107,11 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/0j0Bb7n1/Nagorik-TV.jpg",Nagorik TV
-
-
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/5gCvWJv6/News-24-HD.jpg",News 24 HD
 https://tvsen6.aynaott.com/news24/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Q3pnrdLs/Nexus-TV.jpg",Nexus TV
-
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/spfYz9qy/Nobanno-TV.jpg",Nobanno TV
-
-
-
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HW5LFNtR/Rajshani-TV.jpg",Rajdhani TV
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Ss8dZ7pz/SA-TV.jpg",SA TV
@@ -117,9 +121,33 @@ https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tRKzj7Vk/Times-24.jpg",Times 24
+https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",TBN 24
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/zf55CCzJ/images-(22).jpg",Mukka tv
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/zf55CCzJ/images-(22).jpg",Modina Tv
+http://m.live.net.sa:1935/live/quran/chunklist_w272686369.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/zf55CCzJ/images-(22).jpg",Mukka tb
+http://m.live.net.sa:1935/live/quran/.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="AKASH GO",Deepto TV HD 📺
