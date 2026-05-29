@@ -152,6 +152,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",Press Tv Iran
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",BBC News UK
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
