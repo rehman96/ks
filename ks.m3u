@@ -7,7 +7,8 @@ http://103.158.133.62:8080/live/index.m3u8
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://tvn1.chowdhury-shaheb.com/starsport1/tracks-v1a1/mono.m3u8
@@ -40,6 +41,8 @@ https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://tvn1.chowdhury-shaheb.com/starsport1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 
 
 
