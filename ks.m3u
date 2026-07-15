@@ -9,31 +9,38 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFm6ZkB/T-Sports-logo-svg.png",T Sports HD
 ##http://103.151.61.12/T-Sports.kutta/tracks-v1a1/mono.m3u8
 ##http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
-https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/2026/07/15/16/31/13-05250.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rm6vQSfL/images-(4).png",Willow Sports Extra
-http://27.124.71.27/Willow_Extra/tracks-v1a1/mono.ts.m3u8
-
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/2026/07/15/16/31/13-05250.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/2026/07/15/16/31/00-05999.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-https://live4.asimxtech.online/tsports3/index.m3u8
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZsXQFRL/gametiles-com-banglalink-toffee.jpg",Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
