@@ -16,10 +16,10 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 http://202.70.146.135:8000/play/a00a/index.m3u8?utm_source=chatgpt.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+https://bold-sky-a350.tasinazad234.workers.dev/stream/starspotrs/playlist.m3u8?expires=1791677925&sig=fkKyPQ4SONNH_gYM5jpKABLbPuR4u0F8gr0mJU4cEuU
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
-https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+https://tvsen5.aynascope.net/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rm6vQSfL/images-(4).png",Willow Sports Extra
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/2026/07/15/16/31/13-05250.ts
@@ -33,7 +33,7 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/2026/07/15/16/31/00-05999.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZsXQFRL/gametiles-com-banglalink-toffee.jpg",Toffee
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
