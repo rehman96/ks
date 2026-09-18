@@ -182,8 +182,10 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjcXCLb/images-(2).png", Al Jazeera news
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 BBC
-http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8?t=1789721468543
-
-
-#EXTINF:-1 CNN
-http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8?t=1789721524316
+http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",CNN
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",TEST
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u
