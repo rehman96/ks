@@ -50,7 +50,7 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",ATN News
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8?t=1789721422314
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png",Boishakhi
 #EXTVLCOPT:http-user-agent=DevM3U-Player
