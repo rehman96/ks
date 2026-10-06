@@ -13,7 +13,7 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 ##http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
 #https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 #http://103.165.93.31:8095/tsports/tracks-v1a1a2/2026/07/15/16/31/13-05250.ts
-http://202.70.146.135:8000/play/a00a/index.m3u8?utm_source=chatgpt.com
+http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",UEFA NATIONAL LEAGUE 
 https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
