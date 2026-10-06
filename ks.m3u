@@ -187,6 +187,6 @@ http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",CNN
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 http://103.151.60.188:12345/hls/tab_7sz3wva/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",TEST
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u
+
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png",Saudi Quran TV - Makkah Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
