@@ -16,13 +16,13 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 http://202.70.146.135:8000/play/a00a/index.m3u8?utm_source=chatgpt.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-https://bold-sky-a350.tasinazad234.workers.dev/stream/starspotrs/playlist.m3u8?expires=1791677925&sig=fkKyPQ4SONNH_gYM5jpKABLbPuR4u0F8gr0mJU4cEuU
+https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/level_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 https://tvsen5.aynascope.net/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rm6vQSfL/images-(4).png",Willow Sports Extra
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/2026/07/15/16/31/13-05250.ts
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 https://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
@@ -33,7 +33,7 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/2026/07/15/16/31/00-05999.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZsXQFRL/gametiles-com-banglalink-toffee.jpg",Toffee
-https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
