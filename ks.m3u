@@ -29,7 +29,7 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -41,7 +41,8 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+#https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",Bangla 1
 #EXTVLCOPT:http-user-agent=DevM3U-Player
