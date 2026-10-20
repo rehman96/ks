@@ -55,8 +55,6 @@ http://103.135.253.32:8080/NTV/index.m3u8
 http://103.135.253.32:8080/Channel-I/index.m3u8
 
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="T-Sports" tvg-logo="https://i.ibb.co/L84kS2j/t-sports.png" group-title="Sports",T-Sports / Star Sports
 http://103.151.60.162:2122/play/a001/index.m3u8?hls
 
