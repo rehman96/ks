@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" group-title="Sports/Local",Gazi TV
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star News" group-title="News",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" group-title="Documentary",NATGEO HD
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Color HD" group-title="Entertainment",Color HD
+http://103.135.253.32:8080/Color-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MN PLUS" group-title="Movies",MN PLUS
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" group-title="Movies",MOVIES NOW
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" group-title="Entertainment",STAR BHARAT
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" group-title="Movies",STAR MOVIES
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" group-title="Sports",Star Sports 1
+http://103.135.253.32:8080/STAR-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" group-title="Sports",Star Sports 2
+http://103.135.253.32:8080/STAR-SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="T-Sports" group-title="Sports",T-Sports
+http://103.135.253.32:8080/T-Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" group-title="Entertainment",Star Plus
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+http://103.135.253.32:8080/STAR-JALSHA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" group-title="Entertainment",Zee Bangla
+http://103.135.253.32:8080/ZEE-BANGLA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" group-title="Bangladeshi",Somoy TV
+http://103.135.253.32:8080/Somoy-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
+http://103.135.253.32:8080/Independent-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV" group-title="Bangladeshi",NTV
+http://103.135.253.32:8080/NTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" group-title="Bangladeshi",Channel I
+http://103.135.253.32:8080/Channel-I/index.m3u8
+
+
+
+
+
 #EXTINF:-1, Channel 1
 http://103.175.73.12:8080/live/1/1_0.m3u8
 #EXTINF:-1, Channel 2
